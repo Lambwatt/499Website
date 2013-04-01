@@ -21,7 +21,8 @@ body {
   width: 100%;
   font-size: 20px;
   padding: 20px;
-  background-color: rgba(0, 0, 0, 0.65); }
+  background-color: rgba(0, 0, 0, 0.65);
+  font-weight: bold; }
 
 #game-frame {
   margin-left: auto;
@@ -35,7 +36,7 @@ div {
 .content-container {
   margin-left: auto;
   margin-right: auto;
-  width: 820px;
+  width: 860px;
   background-color: rgba(0, 0, 0, 0.65); }
 
 .content {
@@ -47,7 +48,7 @@ div {
 .nav-bar {
   margin-left: auto;
   margin-right: auto;
-  width: 800px;
+  width: 840px;
   margin-top: 20px; }
 
 .nav-bar-link {
@@ -63,4 +64,5 @@ div {
     color: white;
     text-decoration: none;
     position: relative;
-    top: 10px; }
+    top: 10px;
+    font-weight: bold; }
