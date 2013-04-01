@@ -5,8 +5,8 @@
 
 <!-- Heading -->
 <span class="home-heading">
-	<img class="logo uvic" src="images/uvic.png" alt="The University of Victoria"/>
-	<img class="logo neptune" src="images/neptune.png" alt="NEPTUNE Canada"/>
+	<img class="logo uvic" src="images/uvic.png" alt="The University of Victoria" title="The University of Victoria"/>
+	<img class="logo neptune" src="images/neptune.png" alt="NEPTUNE Canada" title="NEPTUNE Canada"/>
 	<h1>NEPTUNE: Ocean Explorer</h1>
 </span>
 
