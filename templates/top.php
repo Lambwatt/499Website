@@ -6,6 +6,7 @@
 		<link type="text/css" rel="Stylesheet" href="css/seng499.css" />
 	</head>
 	<body>
+		<div class="background"></div>
 		<div class="nav-bar">
 			<a href="index.html">Home</a> 
 			<a href="report.html">Report</a>
