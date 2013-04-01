@@ -1,5 +1,7 @@
 $main-text-color: white;
 $main-text-font: "arial";
+$content-container-width: 775px;
+$content-width: 700px;
 
 @mixin transparent-background {
 
@@ -42,4 +44,21 @@ body {
 #game-frame {
 	@include centered;
 	display: block;
+}
+
+div {
+	margin: 0px;
+	padding: 0px;
+}
+
+.content-container {
+	@include centered;
+	width: $content-container-width;
+	@include transparent-background;
+}
+
+.content {
+	@include centered;
+	width: $content-width;
+	padding: 40px 0px;
 }

@@ -27,3 +27,19 @@ body {
   margin-left: auto;
   margin-right: auto;
   display: block; }
+
+div {
+  margin: 0px;
+  padding: 0px; }
+
+.content-container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 775px;
+  background-color: rgba(0, 0, 0, 0.65); }
+
+.content {
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  padding: 40px 0px; }

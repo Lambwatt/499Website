@@ -13,4 +13,5 @@
 			<a href="report.html">Report</a>
 			<a href="game.html">Demo</a>
 		</div>
-		<div class="content">
+		<div class="content-container">
+			<div class="content">
