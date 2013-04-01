@@ -1,3 +1,8 @@
+body {
+  margin: 0px;
+  color: white;
+  font-family: "arial"; }
+
 .background {
   background-image: url("../images/undersea-bg.png");
   background-repeat: no-repeat;
@@ -9,6 +14,14 @@
   left: 0px;
   right: 0px;
   z-index: -100; }
+
+.title-bar {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  font-size: 20px;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.65); }
 
 #game-frame {
   margin-left: auto;

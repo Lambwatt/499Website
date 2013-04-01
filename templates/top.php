@@ -7,6 +7,7 @@
 	</head>
 	<body>
 		<div class="background"></div>
+		<div class="title-bar">Seng 499: Ocean Explorer</div>
 		<div class="nav-bar">
 			<a href="index.html">Home</a> 
 			<a href="report.html">Report</a>
