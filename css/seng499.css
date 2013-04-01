@@ -9,7 +9,7 @@ body {
   left: 0px;
   right: 0px; }
 
-#iframe {
-  display: block;
+#game-frame {
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+  display: block; }
