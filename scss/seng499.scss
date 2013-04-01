@@ -2,6 +2,8 @@ $main-text-color: white;
 $main-text-font: "arial";
 $content-container-width: 775px;
 $content-width: 700px;
+$nav-bar-width: $content-container-width - 20px;
+$soft-corner: 3px;
 
 @mixin transparent-background {
 
@@ -61,4 +63,30 @@ div {
 	@include centered;
 	width: $content-width;
 	padding: 40px 0px;
+}
+
+.nav-bar {
+
+	@include centered;
+	width: $nav-bar-width;
+	margin-top: 20px;
+
+}
+
+.nav-bar-link {
+	@include centered;
+	@include transparent-background;
+	width: 32.9%;
+	height: 30px;
+	display: inline-block;
+	text-align: center;
+	border-radius: $soft-corner $soft-corner 0px 0px;
+
+	a {
+
+		color: $main-text-color;
+		text-decoration: none;
+		position: relative;
+		top: 10px;
+	}
 }

@@ -9,9 +9,9 @@
 		<div class="background"></div>
 		<div class="title-bar">Seng 499: Ocean Explorer</div>
 		<div class="nav-bar">
-			<a href="index.html">Home</a> 
-			<a href="report.html">Report</a>
-			<a href="game.html">Demo</a>
+			<span class="nav-bar-link"><a href="index.html">Home</a></span>
+			<span class="nav-bar-link"><a href="report.html">Report</a></span>
+			<span class="nav-bar-link"><a href="game.html">Demo</a></span>
 		</div>
 		<div class="content-container">
 			<div class="content">
