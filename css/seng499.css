@@ -35,19 +35,19 @@ div {
 .content-container {
   margin-left: auto;
   margin-right: auto;
-  width: 775px;
+  width: 820px;
   background-color: rgba(0, 0, 0, 0.65); }
 
 .content {
   margin-left: auto;
   margin-right: auto;
-  width: 700px;
+  width: 800px;
   padding: 40px 0px; }
 
 .nav-bar {
   margin-left: auto;
   margin-right: auto;
-  width: 755px;
+  width: 800px;
   margin-top: 20px; }
 
 .nav-bar-link {
