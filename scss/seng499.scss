@@ -1,19 +1,4 @@
-$main-text-color: white;
-$main-text-font: "arial";
-$content-container-width: 860px;
-$content-width: 800px;
-$nav-bar-width: $content-container-width - 20px;
-$soft-corner: 3px;
-
-@mixin transparent-background {
-
-	background-color: rgba(0, 0, 0, 0.65);
-}
-
-@mixin centered {
-	margin-left: auto;
-	margin-right: auto;
-}
+@import "common";
 
 body {
 

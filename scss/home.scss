@@ -1,0 +1,25 @@
+@import "common";
+
+.home-heading {
+
+	@include centered;
+	width: 100%;
+	display: block;
+	margin-bottom: 80px;
+	margin-top: 20px;
+
+	.uvic {
+		float: left;
+	}
+
+	.neptune {
+		float: right;
+	}
+
+	h1 {
+		display: inline;
+
+		// This is suck, but autocentering doesn't seem to work between two floats
+		margin-left: 150px;
+	}
+}

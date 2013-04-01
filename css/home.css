@@ -1,0 +1,14 @@
+.home-heading {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  display: block;
+  margin-bottom: 80px;
+  margin-top: 20px; }
+  .home-heading .uvic {
+    float: left; }
+  .home-heading .neptune {
+    float: right; }
+  .home-heading h1 {
+    display: inline;
+    margin-left: 150px; }
