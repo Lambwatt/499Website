@@ -9,9 +9,10 @@
 		<div class="background"></div>
 		<div class="title-bar">Seng 499: Ocean Explorer</div>
 		<div class="nav-bar">
-			<span class="nav-bar-link"><a href="home.php">Home</a></span>
+			<span class="nav-bar-link"><a href="home.php">Project</a></span>
 			<span class="nav-bar-link"><a href="report.php">Report</a></span>
 			<span class="nav-bar-link"><a href="game.php">Game</a></span>
+			<span class="nav-bar-link"><a href="implementation.php">Implementation</a></span>
 		</div>
 		<div class="content-container">
 			<div class="content">
