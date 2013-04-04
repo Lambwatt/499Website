@@ -3,7 +3,7 @@
   margin-right: auto;
   width: 100%;
   display: block;
-  margin-bottom: 80px;
+  margin-bottom: 40px;
   margin-top: 20px; }
   .home-heading .uvic {
     float: left; }
@@ -13,4 +13,5 @@
     display: inline;
     margin-left: 150px; }
   .home-heading h2 {
-    font-size: large; }
+    font-size: large;
+    margin-top: 40px; }

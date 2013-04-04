@@ -8,6 +8,10 @@ body {
 	@include regular-links;
 }
 
+p {
+	margin: 8px 0px;
+}
+
 .background {
 	background-image:url('../images/undersea-bg.png'); // Gotta be relative paths for this project :(
 	background-repeat:no-repeat;
