@@ -2,6 +2,11 @@ body {
   margin: 0px;
   color: white;
   font-family: "arial"; }
+  body a {
+    color: white;
+    text-decoration: none; }
+    body a:hover {
+      color: gray; }
 
 .background {
   background-image: url("../images/undersea-bg.png");
@@ -61,8 +66,6 @@ div {
   text-align: center;
   border-radius: 3px 3px 0px 0px; }
   .nav-bar-link a {
-    color: white;
-    text-decoration: none;
     position: relative;
     top: 10px;
     font-weight: bold; }

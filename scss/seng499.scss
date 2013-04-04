@@ -5,6 +5,16 @@ body {
 	margin: 0px;
 	color: $main-text-color;
 	font-family: $main-text-font;
+
+
+	a {
+
+		color: $main-text-color;
+		text-decoration: none;
+		&:hover {
+			color: gray;
+		}
+	}
 }
 
 .background {
@@ -70,8 +80,6 @@ div {
 
 	a {
 
-		color: $main-text-color;
-		text-decoration: none;
 		position: relative;
 		top: 10px;
 		font-weight: bold;
