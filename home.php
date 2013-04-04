@@ -12,11 +12,13 @@
 
 <!-- Description -->
 <h2>Description</h2>
-<p>We made a thing.</p>
+<p>NEPTUNE: Ocean Explorer is a horizontal prototype developed for NEPTUNE Canada as an outreach program to develop interest in the NEPTUNE ocean observatory.</p>
+
+<p>This project was undertaken as a design project for SENG 499 at the University of Victoria.</p>
 
 <!-- Team -->
 <h2>Team</h2>
-<p>NEPTUNE: Ocean Explorer was developed by Michael Pattie, Colton Phillips, and Tom Gibson for the engineering design project class at the University of Victoria.</p>
+<p>NEPTUNE: Ocean Explorer was developed by Michael Pattie, Colton Phillips, and Tom Gibson</p>
 
 <p>The project was supervised by Doctor Kin Fun Li and sponsored by Maia Hoeberechts.</p>
 

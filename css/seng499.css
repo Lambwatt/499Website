@@ -6,7 +6,7 @@ body {
     color: white;
     text-decoration: none; }
     body a:hover {
-      color: gray; }
+      color: red; }
 
 .background {
   background-image: url("../images/undersea-bg.png");
