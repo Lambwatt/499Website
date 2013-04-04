@@ -7,7 +7,7 @@
 	</head>
 	<body>
 		<div class="background"></div>
-		<a href="home.php"><div class="title-bar">Seng 499: Ocean Explorer</div></a>
+		<div class="title-bar"><a href="home.php"><div>Seng 499: Ocean Explorer</div></a></div>
 		<div class="nav-bar">
 			<a class="nav-bar-link" href="home.php"><span>Project</span></a>
 			<a class="nav-bar-link" href="report.php"><span>Report</span></a>

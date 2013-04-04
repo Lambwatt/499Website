@@ -1,6 +1,6 @@
 $main-text-color: white;
-$highlight-text-color: red;
-$main-text-font: "arial";
+$highlight-text-color: #63B7F2;
+$main-text-font: "comic sans ms";
 $content-container-width: 860px;
 $content-width: 800px;
 $nav-bar-width: $content-container-width - 20px;
@@ -19,5 +19,25 @@ $soft-corner: 3px;
 @mixin subdued-headings {
 	h2 {
 		font-size: large;
+	}
+}
+
+@mixin regular-links {
+	a {
+		text-decoration: none;
+		color: $highlight-text-color;
+		&:hover {
+			color: $main-text-color;
+		}
+	}
+}
+
+@mixin main-links {
+	a {
+		text-decoration: none;
+		color: $main-text-color;
+		&:hover {
+			color: $highlight-text-color;
+		}
 	}
 }

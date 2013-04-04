@@ -1,12 +1,12 @@
 body {
   margin: 0px;
   color: white;
-  font-family: "arial"; }
+  font-family: "comic sans ms"; }
   body a {
-    color: white;
-    text-decoration: none; }
+    text-decoration: none;
+    color: #63b7f2; }
     body a:hover {
-      color: red; }
+      color: white; }
 
 .background {
   background-image: url("../images/undersea-bg.png");
@@ -23,10 +23,16 @@ body {
 .title-bar {
   margin-left: auto;
   margin-right: auto;
-  font-size: 20px;
-  padding: 20px;
   background-color: rgba(0, 0, 0, 0.65);
+  font-size: 20px;
   font-weight: bold; }
+  .title-bar a {
+    text-decoration: none;
+    color: white; }
+    .title-bar a:hover {
+      color: #63b7f2; }
+  .title-bar div {
+    padding: 20px; }
 
 #game-frame {
   margin-left: auto;
@@ -48,12 +54,19 @@ div {
   margin-right: auto;
   width: 800px;
   padding: 40px 0px; }
+  .content h2 {
+    font-size: large; }
 
 .nav-bar {
   margin-left: auto;
   margin-right: auto;
   width: 840px;
   margin-top: 20px; }
+  .nav-bar a {
+    text-decoration: none;
+    color: white; }
+    .nav-bar a:hover {
+      color: #63b7f2; }
 
 .nav-bar-link {
   margin-left: auto;
