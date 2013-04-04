@@ -22,4 +22,6 @@
 		// This is suck, but autocentering doesn't seem to work between two floats
 		margin-left: 150px;
 	}
+
+	@include subdued-headings;
 }
