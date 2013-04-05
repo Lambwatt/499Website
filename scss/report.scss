@@ -1,0 +1,10 @@
+@import "common";
+
+.content {
+	a {
+		@include centered;
+		width: 272px; // The width of the report image
+		display: block;
+		margin-top: 20px;
+	}
+}
