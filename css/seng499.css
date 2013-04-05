@@ -27,6 +27,8 @@ p {
   margin-left: auto;
   margin-right: auto;
   background-color: rgba(0, 0, 0, 0.65);
+  width: 860px;
+  height: 80px;
   font-size: 20px;
   font-weight: bold; }
   .title-bar a {

@@ -30,6 +30,9 @@ p {
 	@include transparent-background;
 	@include main-links;
 
+	width: $content-container-width;
+	height: 80px;
+
 	font-size: 20px;
 	font-weight: bold;
 
